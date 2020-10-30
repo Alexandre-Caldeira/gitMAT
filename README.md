@@ -8,4 +8,4 @@ gitMAT
 - clearvars; para limpar variáveis
 - close all; para fechar figuras
 - clc; para limpar o Command Window
-
+- grid on; para adicionar grades a figuras.
