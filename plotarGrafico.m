@@ -6,3 +6,5 @@ fun = int(fun,x);
 
 ezplot(fun)
 legend('Integral de f(x)')
+
+grid on
